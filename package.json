@@ -1,0 +1,19 @@
+{
+  "name": "language-vb6",
+  "version": "0.0.0",
+  "description": "Visual Basic 6.0",
+  "main": "./lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ayapi",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+    "antlr4": "^4.5.3",
+    "antlr4-vb6": "0.0.1",
+    "first-mate": "^6.0.0"
+  }
+}
