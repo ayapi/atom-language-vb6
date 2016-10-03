@@ -1,0 +1,4 @@
+'.source.vb6':
+  'editor':
+    'tabLength': 4
+    'commentStart': '\' '
