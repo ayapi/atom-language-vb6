@@ -9,7 +9,7 @@
   "author": "ayapi",
   "license": "MIT",
   "engines": {
-    "atom": ">=0.174.0 <2.0.0"
+    "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
     "antlr4": "^4.5.3",
