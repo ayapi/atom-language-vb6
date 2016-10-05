@@ -2,5 +2,5 @@
   'editor':
     'tabLength': 4
     'commentStart': '(\'|:?Rem )'
-    'increaseIndentPattern': '(Else|For|Do|Begin|(?<!End )(If|Enum|Function|Property|Select|Sub|Type|With)).*$'
+    'increaseIndentPattern': '((Else|For|Do|Begin|(?<!End )(Enum|Function|Property|Select|Sub|Type|With)).*$|(?<!End )If .*Then$)'
     'decreaseIndentPattern': '^\\s*(Else|End|Loop|Next)'
